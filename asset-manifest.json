@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/countdowntimer/static/css/main.d0e5b6c0.chunk.css",
+    "main.js": "/countdowntimer/static/js/main.dec9548f.chunk.js",
+    "main.js.map": "/countdowntimer/static/js/main.dec9548f.chunk.js.map",
+    "runtime-main.js": "/countdowntimer/static/js/runtime-main.db5b7d5b.js",
+    "runtime-main.js.map": "/countdowntimer/static/js/runtime-main.db5b7d5b.js.map",
+    "static/js/2.5d1e36e2.chunk.js": "/countdowntimer/static/js/2.5d1e36e2.chunk.js",
+    "static/js/2.5d1e36e2.chunk.js.map": "/countdowntimer/static/js/2.5d1e36e2.chunk.js.map",
+    "index.html": "/countdowntimer/index.html",
+    "static/css/main.d0e5b6c0.chunk.css.map": "/countdowntimer/static/css/main.d0e5b6c0.chunk.css.map",
+    "static/js/2.5d1e36e2.chunk.js.LICENSE.txt": "/countdowntimer/static/js/2.5d1e36e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db5b7d5b.js",
+    "static/js/2.5d1e36e2.chunk.js",
+    "static/css/main.d0e5b6c0.chunk.css",
+    "static/js/main.dec9548f.chunk.js"
+  ]
+}
